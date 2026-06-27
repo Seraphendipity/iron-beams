@@ -1,0 +1,9 @@
+{
+  "name": "iron-beams",
+  "version": "0.1.0",
+  "title": "Iron Beams",
+  "description": "Replace Iron sticks with Iron beams. Moreover for Krastorio 2.",
+  "author": "Seraphendipity",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.0", "? Krastorio2"]
+}
