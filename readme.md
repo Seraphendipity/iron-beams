@@ -16,3 +16,4 @@ There is some minor balancing in Purple science, as the high-throughput of **Iro
 - [ ] Replace Foundry Smelting Icon for Space Age.
 	- Are those dynamically generated?
 - [ ] Add option or separate mod for re-balancing Beams and Gears (1 Plate -> 2 Gears, 2 Plates -> 1 Beam).
+- [ ] Replace outputs with it as well.
